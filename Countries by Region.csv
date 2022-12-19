@@ -1,0 +1,248 @@
+﻿COUNTRY,ABBREVIATION,REGION
+Afghanistan,af,EMEA
+Åland Islands,ax,EMEA
+Albania,al,EMEA
+Algeria,dz,EMEA
+American Samoa,as,APAC
+Andorra,ad,EMEA
+Angola,ao,EMEA
+Anguilla,ai,LATAM
+Antarctica,aq,EMEA
+Antigua and Barbuda,ag,LATAM
+Argentina,ar,LATAM
+Armenia,am,EMEA
+Aruba,aw,LATAM
+Australia,au,APAC
+Austria,at,EMEA
+Azerbaijan,az,EMEA
+Bahamas,bs,LATAM
+Bahrain,bh,EMEA
+Bangladesh,bd,APAC
+Barbados,bb,LATAM
+Belarus,by,EMEA
+Belgium,be,EMEA
+Belize,bz,LATAM
+Benin,bj,EMEA
+Bermuda,bm,LATAM
+Bhutan,bt,APAC
+"Bolivia, Plurinational State of",bo,LATAM
+Bosnia and Herzegovina,ba,EMEA
+Botswana,bw,EMEA
+Bouvet Island,bv,EMEA
+Brazil,br,LATAM
+British Indian Ocean Territory,io,APAC
+Brunei Darussalam,bn,APAC
+Bulgaria,bg,EMEA
+Burkina Faso,bf,EMEA
+Burundi,bi,EMEA
+Cabo Verde,cv,EMEA
+Cambodia,kh,APAC
+Cameroon,cm,EMEA
+Canada,ca,NA
+Cayman Islands,ky,LATAM
+Central African Republic,cf,EMEA
+Chad,td,EMEA
+Chile,cl,LATAM
+China,cn,APAC
+Christmas Island,cx,APAC
+Cocos (Keeling) Islands,cc,APAC
+Collectivity of Saint Martin,mf,EMEA
+Colombia,co,LATAM
+Comoros,km,EMEA
+Congo,cg,EMEA
+"Congo, the Democratic Republic of the",cd,EMEA
+Cook Islands,ck,EMEA
+Costa Rica,cr,LATAM
+Côte d'Ivoire,ci,EMEA
+Croatia,hr,EMEA
+Cuba,cu,LATAM
+Curaçao,cw,EMEA
+Cyprus,cy,EMEA
+Czechia,cz,EMEA
+Denmark,dk,EMEA
+Djibouti,dj,EMEA
+Dominica,dm,LATAM
+Dominican Republic,do,LATAM
+Ecuador,ec,LATAM
+Egypt,eg,EMEA
+El Salvador,sv,LATAM
+Equatorial Guinea,gq,EMEA
+Eritrea,er,EMEA
+Estonia,ee,EMEA
+Ethiopia,et,EMEA
+Falkland Islands (Malvinas),fk,LATAM
+Faroe Islands,fo,EMEA
+Fiji,fj,APAC
+Finland,fi,EMEA
+France,fr,EMEA
+French Guiana,gf,EMEA
+French Polynesia,pf,EMEA
+French Southern Territories,tf,EMEA
+Gabon,ga,EMEA
+Gambia,gm,EMEA
+Georgia,ge,EMEA
+Germany,de,EMEA
+Ghana,gh,EMEA
+Gibralta,gi,EMEA
+Greece,gr,EMEA
+Greenland,gl,EMEA
+Grenada,gd,LATAM
+Guadeloupe,gp,EMEA
+Guam,gu,APAC
+Guatemala,gt,LATAM
+Guernsey,gg,EMEA
+Guinea,gn,EMEA
+Guinea-Bissau,gw,EMEA
+Guyana,gy,LATAM
+Haiti,ht,LATAM
+Heard Island and McDonald Islands,hm,EMEA
+Holy See,va,EMEA
+Honduras,hn,LATAM
+Hong Kong,hk,APAC
+Hungary,hu,EMEA
+Iceland,is,EMEA
+India,in,APAC
+Indonesia,id,APAC
+"Iran, Islamic Republic of",ir,EMEA
+Iraq,iq,EMEA
+Ireland,ie,EMEA
+Isle of Man,im,EMEA
+Israel,il,EMEA
+Italy,it,EMEA
+Jamaica,jm,LATAM
+Japan,jp,APAC
+Jersey,je,EMEA
+Jordan,jo,EMEA
+Kazakhstan,kz,EMEA
+Kenya,ke,EMEA
+Kiribati,ki,APAC
+"Korea, Democratic People's Republic of",kp,APAC
+"Korea, Republic of",kr,APAC
+Kuwait,kw,EMEA
+Kyrgyzstan,kg,EMEA
+Lao People's Democratic Republic,la,APAC
+Latvia,lv,EMEA
+Lebanon,lb,EMEA
+Lesotho,ls,EMEA
+Liberia,lr,EMEA
+Libya,ly,EMEA
+Liechtenstein,li,EMEA
+Lithuania,lt,EMEA
+Luxembourg,lu,EMEA
+Macao,mo,APAC
+"Macedonia, the former Yugoslav Republic of",mk,EMEA
+Madagascar,mg,EMEA
+Malawi,mw,EMEA
+Malaysia,my,APAC
+Maldives,mv,APAC
+Mali,ml,EMEA
+Malta,mt,EMEA
+Marshall Islands,mh,APAC
+Martinique,mq,EMEA
+Mauritania,mr,EMEA
+Mauritius,mu,EMEA
+Mayotte,yt,EMEA
+Mexico,mx,LATAM
+"Micronesia, Federated States of",fm,APAC
+"Moldova, Republic of",md,EMEA
+Monaco,mc,EMEA
+Mongolia,mn,APAC
+Montenegro,me,EMEA
+Montserrat,ms,LATAM
+Morocco,ma,EMEA
+Mozambique,mz,EMEA
+Myanmar,mm,APAC
+Namibia,na,EMEA
+Nauru,nr,APAC
+Nepal,np,APAC
+Netherlands,nl,EMEA
+New Caledonia,nc,EMEA
+New Zealand,nz,APAC
+Nicaragua,ni,LATAM
+Niger,ne,EMEA
+Nigeria,ng,EMEA
+Niue,nu,APAC
+Norfolk Island,nf,APAC
+Northern Mariana Islands,mp,APAC
+Norway,no,EMEA
+Oman,om,EMEA
+Pakistan,pk,APAC
+Palau,pw,APAC
+"Palestine, State of",ps,EMEA
+Panama,pa,LATAM
+Papua New Guinea,pg,APAC
+Paraguay,py,LATAM
+Peru,pe,LATAM
+Philippines,ph,APAC
+Pitcairn,pn,APAC
+Poland,pl,EMEA
+Portugal,pt,EMEA
+Puerto Rico,pr,LATAM
+Qatar,qa,EMEA
+Réunion,re,EMEA
+Romania,ro,EMEA
+Russian Federation,ru,EMEA
+Rwanda,rw,EMEA
+Saint Barthélemy,bl,EMEA
+"Saint Helena, Ascension and Tristan da Cunha",sh,EMEA
+Saint Kitts and Nevis,kn,LATAM
+Saint Lucia,lc,LATAM
+Saint Pierre and Miquelon,pm,EMEA
+Saint Vincent and the Grenadines,vc,LATAM
+Samoa,ws,APAC
+San Marino,sm,EMEA
+Sao Tome and Principe,st,EMEA
+Saudi Arabia,sa,EMEA
+Senegal,sn,EMEA
+Serbia,rs,EMEA
+Seychelles,sc,EMEA
+Sierra Leone,sl,EMEA
+Singapore,sg,APAC
+Sint Maarten,sx,EMEA
+Slovakia,sk,EMEA
+Slovenia,si,EMEA
+Solomon Islands,sb,APAC
+Somalia,so,EMEA
+South Africa,za,EMEA
+South Georgia and the South Sandwich Islands,gs,LATAM
+South Sudan,ss,EMEA
+Spain,es,EMEA
+Sri Lanka,lk,APAC
+Sudan,sd,EMEA
+Suriname,sr,LATAM
+Swaziland,sz,EMEA
+Sweden,se,EMEA
+Switzerland,ch,EMEA
+Syrian Arab Republic,sy,EMEA
+"Taiwan, Province of China",tw,APAC
+Tajikistan,tj,EMEA
+"Tanzania, United Republic of",tz,EMEA
+Thailand,th,APAC
+Timor-Leste,tl,APAC
+Togo,tg,EMEA
+Tokelau,tk,APAC
+Tonga,to,APAC
+Trinidad and Tobago,tt,LATAM
+Tunisia,tn,EMEA
+Turkey,tr,EMEA
+Turkmenistan,tm,EMEA
+Turks and Caicos Islands,tc,LATAM
+Tuvalu,tv,APAC
+Uganda,ug,EMEA
+Ukraine,ua,EMEA
+United Arab Emirates,ae,EMEA
+United Kingdom of Great Britain and Northern Island,gb,EMEA
+United States Minor Outlying Islands,um,APAC
+United States of America,us,NA
+Uruguay,uy,LATAM
+Uzbekistan,uz,EMEA
+Vanuatu,vu,APAC
+"Venezuela, Bolivarian Republic of",ve,LATAM
+Vietnam,vn,APAC
+"Virgin Islands, British",vg,LATAM
+"Virgin Islands, U.S.",vi,LATAM
+Wallis and Futuna,wf,EMEA
+Western Sahara,eh,EMEA
+Yemen,ye,EMEA
+Zambia,zm,EMEA
+Zimbabwe,zw,EMEA
